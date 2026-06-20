@@ -407,5 +407,5 @@ jump 4294967295
 ## 参考资源
 
 - [Mandrill v2.0 语言参考手册](docs/mandrill-v2-intro.pdf) — 语言定义、语法规则、VM模型、指令集参考
-- [编译原理（龙书）中文第二版](docs/中文Compilers Principles Techniques and Tools (2nd Edition) .pdf) — 课程核心教材，涵盖编译全流程理论与算法
+- [编译原理（龙书）中文第二版](/docs/中文Compilers%20Principles%20Techniques%20and%20Tools.pdf) — 课程核心教材，涵盖编译全流程理论与算法
 - [ANTLR 4 官方文档](https://github.com/antlr/antlr4) — ANTLR 4 的使用指南与 API 参考
