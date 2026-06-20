@@ -1,0 +1,4 @@
+arr[] = 10;
+a = arr[];
+write = a;
+put = '\n';

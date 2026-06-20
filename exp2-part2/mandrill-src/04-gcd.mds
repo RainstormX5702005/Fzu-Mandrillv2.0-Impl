@@ -1,0 +1,14 @@
+a = read;
+b = read;
+if (b > a) {
+    c = a;
+    a = b;
+    b = c;
+}
+while (a % b != 0) {
+    c = b;
+    b = a % b;
+    a = c;
+}
+write = b;
+put = '\n';

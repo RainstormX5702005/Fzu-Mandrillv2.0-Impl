@@ -1,0 +1,7 @@
+/home/cyy/mandrill/实验一答题/mandrill-src/01-a+1 : PASSED
+/home/cyy/mandrill/实验一答题/mandrill-src/06-sum : PASSED
+/home/cyy/mandrill/实验一答题/mandrill-src/11-wordcount : PASSED
+/home/cyy/mandrill/实验一答题/mandrill-src/21-if2 : PASSED
+/home/cyy/mandrill/实验一答题/mandrill-src/26-string : PASSED
+/home/cyy/mandrill/实验一答题/mandrill-src/28-scope : PASSED
+6

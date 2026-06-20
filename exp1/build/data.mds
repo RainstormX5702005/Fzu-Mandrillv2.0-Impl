@@ -1,0 +1,23 @@
+a = 50;
+
+func test() {
+    write = a;
+    put = '\n';
+    flag = 1;
+    local a;
+    a = 60;
+    write = a;
+    put = '\n';
+    while (flag == 1) {
+        global a;
+        a = 70;
+        write = a;
+        put = '\n';
+        flag = 0;
+    }
+}
+
+ignore = test();
+
+write = a;
+put = '\n';
