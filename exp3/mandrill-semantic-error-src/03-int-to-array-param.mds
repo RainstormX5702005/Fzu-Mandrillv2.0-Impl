@@ -1,0 +1,7 @@
+# 语义错误：把整型变量赋给数组型参数
+func[] foo(a[]) {
+    return a;
+}
+
+b = 10;
+ignore = foo(b);

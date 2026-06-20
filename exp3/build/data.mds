@@ -1,0 +1,8 @@
+# 语义错误：把数组变量传给整型参数
+func sum(a, b) {
+    return a + b;
+}
+
+x[] = "hello";
+write = sum(x, 50);
+put = '\n';

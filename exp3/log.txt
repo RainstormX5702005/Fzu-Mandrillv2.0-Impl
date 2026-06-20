@@ -1,0 +1,70 @@
+/home/cyy/mandrill/exp3/mandrill-src/02-a+b : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/04-gcd : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/12-exprlexer : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/26-string : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/30-fibonacci : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/01-array-assigned-int : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/02-array-get-put : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/03-int-to-array-param : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/04-array-to-int-param : PASSED
+9
+/home/cyy/mandrill/exp3/mandrill-src/02-a+b : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/04-gcd : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/12-exprlexer : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/26-string : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/30-fibonacci : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/01-array-assigned-int : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/02-array-get-put : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/03-int-to-array-param : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/04-array-to-int-param : PASSED
+9
+/home/cyy/mandrill/exp3/mandrill-src/02-a+b : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/04-gcd : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/12-exprlexer : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/26-string : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/30-fibonacci : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/01-array-assigned-int : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/02-array-get-put : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/03-int-to-array-param : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/04-array-to-int-param : PASSED
+9
+/home/cyy/mandrill/exp3/mandrill-src/02-a+b : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/04-gcd : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/12-exprlexer : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/26-string : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/30-fibonacci : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/01-array-assigned-int : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/02-array-get-put : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/03-int-to-array-param : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/04-array-to-int-param : PASSED
+9
+/home/cyy/mandrill/exp3/mandrill-src/02-a+b : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/04-gcd : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/12-exprlexer : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/26-string : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/30-fibonacci : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/01-array-assigned-int : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/02-array-get-put : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/03-int-to-array-param : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/04-array-to-int-param : PASSED
+9
+/home/cyy/mandrill/exp3/mandrill-src/02-a+b : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/04-gcd : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/12-exprlexer : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/26-string : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/30-fibonacci : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/01-array-assigned-int : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/02-array-get-put : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/03-int-to-array-param : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/04-array-to-int-param : PASSED
+9
+/home/cyy/mandrill/exp3/mandrill-src/02-a+b : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/04-gcd : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/12-exprlexer : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/26-string : PASSED
+/home/cyy/mandrill/exp3/mandrill-src/30-fibonacci : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/01-array-assigned-int : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/02-array-get-put : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/03-int-to-array-param : PASSED
+/home/cyy/mandrill/exp3/mandrill-semantic-error-src/04-array-to-int-param : PASSED
+9

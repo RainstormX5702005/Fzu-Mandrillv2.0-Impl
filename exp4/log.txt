@@ -1,0 +1,61 @@
+FAILED: Time Limit Exceeded or Runtime Error, return code: 0
+/home/cyy/mandrill/exp4/mandrill-src/01-a+1 : FAILED
+FAILED: Time Limit Exceeded or Runtime Error, return code: 0
+/home/cyy/mandrill/exp4/mandrill-src/02-a+b : FAILED
+FAILED: Time Limit Exceeded or Runtime Error, return code: 0
+/home/cyy/mandrill/exp4/mandrill-src/03-expr : FAILED
+FAILED: Time Limit Exceeded or Runtime Error, return code: 0
+/home/cyy/mandrill/exp4/mandrill-src/29-recursive-gcd : FAILED
+FAILED: Time Limit Exceeded or Runtime Error, return code: 0
+/home/cyy/mandrill/exp4/mandrill-src/30-fibonacci : FAILED
+0
+/home/cyy/mandrill/exp4/mandrill-src/01-a+1 : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/02-a+b : PASSED
+0a1
+> -66060719 -323398799 -743275679
+/home/cyy/mandrill/exp4/mandrill-src/03-expr : FAILED
+0a1
+> 6
+/home/cyy/mandrill/exp4/mandrill-src/29-recursive-gcd : FAILED
+0a1
+> 21
+/home/cyy/mandrill/exp4/mandrill-src/30-fibonacci : FAILED
+2
+/home/cyy/mandrill/exp4/mandrill-src/01-a+1 : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/02-a+b : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/03-expr : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/29-recursive-gcd : PASSED
+0a1
+> 21
+/home/cyy/mandrill/exp4/mandrill-src/30-fibonacci : FAILED
+4
+/home/cyy/mandrill/exp4/mandrill-src/01-a+1 : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/02-a+b : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/03-expr : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/29-recursive-gcd : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/30-fibonacci : PASSED
+5
+/home/cyy/mandrill/exp4/mandrill-src/01-a+1 : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/02-a+b : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/03-expr : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/29-recursive-gcd : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/30-fibonacci : PASSED
+5
+/home/cyy/mandrill/exp4/mandrill-src/01-a+1 : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/02-a+b : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/03-expr : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/29-recursive-gcd : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/30-fibonacci : PASSED
+5
+/home/cyy/mandrill/exp4/mandrill-src/01-a+1 : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/02-a+b : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/03-expr : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/29-recursive-gcd : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/30-fibonacci : PASSED
+5
+/home/cyy/mandrill/exp4/mandrill-src/01-a+1 : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/02-a+b : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/03-expr : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/29-recursive-gcd : PASSED
+/home/cyy/mandrill/exp4/mandrill-src/30-fibonacci : PASSED
+5
